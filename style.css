@@ -8,6 +8,7 @@
 body {
     background-image: url("https://picsum.photos/1920/1080");
     background-size: cover;
+    background-attachment: fixed;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -87,11 +88,12 @@ p {
 }
 
 footer {
-    margin-top: 20px;
+    margin-top: 10px;
     text-align: center;
-    font-size: 20px;
+    font-size: 18px;
     color: #ffffff;
     width: 100%;
+    padding: 20px 0;
 }
 
 .result {
