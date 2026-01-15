@@ -12,11 +12,7 @@ Um clássico jogo de Pedra, Papel e Tesoura desenvolvido para praticar manipula�
 ## 🛠️ Tecnologias Utilizadas
 
 * <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">: Estruturação dos elementos do jogo.
-<br>
-<br>
 * <img src="https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white">: Estilização com Flexbox para layout responsivo e centralizado.
-<br>
-<br>
 * <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E">: Lógica do jogo, geração de escolhas aleatórias para a máquina e manipulação de eventos.
 
 ## 🎮 Como Jogar
