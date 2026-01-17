@@ -24,7 +24,7 @@ Um clássico jogo de Pedra, Papel e Tesoura desenvolvido para praticar manipula�
 
 ## 📄 Licença
 
-Este projeto foi desenvolvido durante os estudos e aprendizado constante no <a href="http://rodolfomori.com.br/devclub">DevClub</a>.
+Este projeto foi desenvolvido durante os estudos e aprendizado constante no <a href="https://devclub.com.br/">DevClub</a>.
 
 
 ## 📸 Demonstração
